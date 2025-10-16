@@ -1,0 +1,402 @@
+[
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp1-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp1-fra1.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp1-fra1.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp1-fra1.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp1-fra1.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp1-fra1.steamserver.net",
+		"port": 27023
+	},
+	{
+		"host": "cmp1-fra2.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp1-fra2.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp1-fra2.steamserver.net",
+		"port": 27023
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-ams1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-fra1.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp2-fra1.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp2-fra1.steamserver.net",
+		"port": 27023
+	},
+	{
+		"host": "cmp2-fra1.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp2-fra1.steamserver.net",
+		"port": 27023
+	},
+	{
+		"host": "cmp2-fra1.steamserver.net",
+		"port": 27023
+	},
+	{
+		"host": "cmp2-fra1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-fra1.steamserver.net",
+		"port": 27018
+	},
+	{
+		"host": "cmp2-fra1.steamserver.net",
+		"port": 27023
+	},
+	{
+		"host": "cmp2-fra2.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp2-fra2.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp2-fra2.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp2-fra2.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp2-fra2.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp2-fra2.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "cmp2-fra2.steamserver.net",
+		"port": 27023
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27021
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27025
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27023
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27028
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27037
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27032
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27024
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27033
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27036
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27038
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27030
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27022
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27034
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27031
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27035
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27020
+	},
+	{
+		"host": "ext1-par1.steamserver.net",
+		"port": 27029
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27022
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27024
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27035
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27028
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27021
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27033
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27029
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27025
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 443
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27019
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27031
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27030
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27037
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27034
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27020
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27038
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27032
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27036
+	},
+	{
+		"host": "ext2-par1.steamserver.net",
+		"port": 27023
+	}
+]
